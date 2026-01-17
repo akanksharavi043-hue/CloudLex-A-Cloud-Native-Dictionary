@@ -1,4 +1,5 @@
 # 🚀 CloudLex-A-Cloud-Native-Dictionary
+## 🔗 Link: https://dmb9bdkzvlzhu.cloudfront.net
 CloudLex is a cloud-native, serverless web application that allows users to search and understand cloud computing terms (e.g., virtualization, DevOps, containers) with clear definitions, detailed explanations, and related concepts.
 The application is designed for learners, students, and early professionals who want quick, accurate explanations of cloud concepts through a simple web interface backed by real AWS services.
 
