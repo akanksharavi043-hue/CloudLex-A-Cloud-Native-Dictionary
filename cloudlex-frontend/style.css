@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #A5CEE6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 50px auto;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #135478;
+}
+
+.subtitle {
+    text-align: center;
+    color: #555;
+    margin-bottom: 25px;
+}
+
+.search-box {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.search-box input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.search-box button {
+    padding: 10px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #135478;
+}
+
+.result h2 {
+    margin-top: 0;
+}
+
+.result p {
+    line-height: 1.6;
+}
+
+.related-terms {
+    margin-top: 10px;
+}

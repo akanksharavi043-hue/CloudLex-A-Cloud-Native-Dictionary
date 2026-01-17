@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>CloudLex – Cloud Computing Dictionary</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <div class="container">
+        <h1>CloudLex</h1>
+        <p class="subtitle">A cloud-native dictionary designed for cloud learners</p>
+
+        <div class="search-box">
+            <input
+                type="text"
+                id="termInput"
+                placeholder="Enter a cloud term (e.g. virtualization)"
+            />
+            <button onclick="searchTerm()">Search</button>
+        </div>
+
+        <div id="result" class="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
